@@ -1,0 +1,12 @@
+numpy==1.26.2
+openai==1.30.3
+tiktoken==0.6.0
+multiprocess==0.70.15
+ipython==8.17.2
+ipywidgets==8.1.1
+jupyter==1.0.0
+llmsherpa==0.1.4
+pypdf==4.0.1
+PyPDF2==3.0.1
+pymed==0.8.9
+arxiv==2.1.0
